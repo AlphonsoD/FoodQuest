@@ -17,4 +17,4 @@ print(answer) # this should workkk
 enter = input('What do you want from me?')
 var = {}
 var['Pizza'] = ['Pizza 73', 'Dominoes', 'Pizza Hut']
-print(var.keys())
+print(list(var.keys()))
