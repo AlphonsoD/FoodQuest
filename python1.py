@@ -11,3 +11,10 @@ print(answer) # this should workkk
 #hoifhsdfhsdfiohdsh
 
 #this is a new comment
+
+
+
+enter = input('What do you want from me?')
+var = {}
+var['Pizza'] = ['Pizza 73', 'Dominoes', 'Pizza Hut']
+print(var.keys())
